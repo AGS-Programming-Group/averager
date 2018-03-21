@@ -1,0 +1,31 @@
+body {
+  background-color: white;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+input {
+  font-size: 40px;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  border-top: 4px solid black;
+  border-right: 4px solid black;
+  border-bottom: 10px solid black;
+  border-left: 10px solid black;
+}
+
+header {
+  text-align: center;
+}
+
+hr {
+  border-top: 2px solid black;
+}
+
+.reset {
+  text-decoration: none;
+}
+
+.name {
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+}
